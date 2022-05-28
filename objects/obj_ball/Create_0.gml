@@ -1,0 +1,11 @@
+action_set_gravity(0, 1.5);
+action_set_friction(0.1);
+collect_grow = false;
+collect_medium = false;
+collect_shrink = false;
+collect_invisible = false;
+collect_revisible = false;
+collect_fire = false;
+collect_balloon = false;
+collect_gravityreverse = false;
+action_sprite_transform(1, 1, 0, 0);

@@ -1,0 +1,1 @@
+global.levelname = "Only One Safe Door";

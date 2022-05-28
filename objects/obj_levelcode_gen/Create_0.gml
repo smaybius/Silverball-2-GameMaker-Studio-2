@@ -1,0 +1,2 @@
+levelcodetype = false;
+global.levelcode = "";

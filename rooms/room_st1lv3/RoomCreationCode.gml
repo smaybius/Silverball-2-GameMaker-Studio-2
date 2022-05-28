@@ -1,0 +1,1 @@
+global.levelname = "A-MAZE-ing challenge";

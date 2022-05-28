@@ -1,0 +1,1 @@
+global.levelname = "Make way out of Spiral";
